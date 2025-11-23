@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+header {
+     background-color: white;
+}
+h1 {
+    color: blue;
+}
+footer {
+    background-color: pink;
+}
+footer p {
+    background-color: white
+}
+nav a {
+  margin: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  border: 3px solid navy;
+  border-radius: 10px;
+  background-color: navy;
+  padding: 5px;
+}
+.popular {
+    background-color: white;
+    color: royalblue;
+}
+nav {
+  margin: 20px;
+  padding: 20px;
+}
+.xamazatik {
+    background-color: lightblue;
+    padding: 10px;
+}
+.hrah {
+    color: navy;
+}
+main {
+    font-size: 20px;
+}
+.odin {
+    color: green;
+}
+a {
+    text-decoration: none;
+    border: 2px solid navy;
+    padding: 5px;
+    color: navy;
+
+}
+h2 {
+    color: blue;
+    margin: 10px;
+}
